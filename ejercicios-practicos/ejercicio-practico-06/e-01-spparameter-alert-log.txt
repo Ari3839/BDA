@@ -1,0 +1,18 @@
+Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
+Version 19.3.0.0.0.
+ORACLE_HOME:    /u01/app/oracle/product/19.3.0/dbhome_1
+System name:	Linux
+Node name:	pc-aalm.fi.unam
+Release:	5.4.17-2136.322.6.2.el8uek.x86_64
+Version:	#2 SMP Sat Aug 19 13:42:32 PDT 2023
+Machine:	x86_64
+Using parameter settings in server-side spfile /u01/app/oracle/product/19.3.0/dbhome_1/dbs/spfileaalmbda2.ora
+System parameters with non-default values:
+  memory_target            = 768M
+  control_files            = "/unam-bda/d01/app/oracle/oradata/AALMBDA2/control01.ctl"
+  control_files            = "/unam-bda/d02/app/oracle/oradata/AALMBDA2/control02.ctl"
+  control_files            = "/unam-bda/d03/app/oracle/oradata/AALMBDA2/control03.ctl"
+  db_securefile            = "PREFERRED"
+  db_domain                = "fi.unam"
+  db_name                  = "aalmbda2"
+2023-09-11T20:13:35.191780-06:00
