@@ -18,4 +18,4 @@ end;
 Prompt creando al usuario ariadna07
 create user ariadna07 identified by ariadna quota unlimited on users;
 grant create sequence, create session, create table to ariadna07;
-exit
+--exit

@@ -156,4 +156,4 @@ Prompt Mostrando los datos finales de t04
 select * from ariadna07.t04_db_buffer_status;
 
 
-exit
+--exit

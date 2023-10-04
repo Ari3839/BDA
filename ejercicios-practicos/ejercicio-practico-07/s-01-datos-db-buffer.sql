@@ -81,4 +81,4 @@ values(
 Prompt Mostrando datos tabla t02_db_buffer_sysstats
 select * from ariadna07.t02_db_buffer_sysstats;
 
-exit
+--exit
