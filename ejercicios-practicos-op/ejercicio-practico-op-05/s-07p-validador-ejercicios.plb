@@ -1,0 +1,105 @@
+whenever sqlerror exit rollback
+create or replace procedure spv_clean wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+15a 144
+wk6JA4zdC6w/EBGX4fN2aBXir/Ywg/BKJK5qZ3SVWE4+NEzVqDYBil2LVsAJudDPnGkb1SfC
+NaODFYkocirnMqk3Qyn6P50XWzNsKUC93AeuMe3LVVPnJaLgB6cO6dHVXT3TWUbghK7UlKZ/
+oFExW6FTJt5rJXPWVMJBDzZYfOUF9pXAc0lLkvvhZaPeLUh9JGiMfHvNOxFZztUkJOcxplCn
+lxvzBPah/UfcgcZz+9xq+MZ8uTlp6/VjsKFVQ/BuTjcLeDP4eCmYx7DRY6BiPhSGVWj4cfcd
+T8UG55OdB6biJh6titJFU4XXH1NZD2I=
+
+/
+show errors
+create or replace procedure spv_check_tables_usr_local wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+1aa6 820
+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
+CnQK0xqbUnucOMZ8LylEIEPZu/lEIS/GeA==
+
+/
+show errors
+Prompt conectando como sys para iniciar Validación
+connect sys/&&p_sys_password as sysdba
+Prompt Realizando limpieza..
+exec spv_clean('&&p_nombre'||'05op');
+Prompt invocando script s-01-estructuras-memoria.sql
+start s-01-estructuras-memoria.sql
+Prompt invocando script s-02-crea-objetos-carga.sql
+start s-02-crea-objetos-carga.sql
+Prompt invocando script s-03-genera-carga.sql 
+Pause 'La instancia será reiniciada. Presione Enter para continuar, Ctrl c para cancelar.'
+start s-03-genera-carga.sql
+Prompt invocando script s-04-automatic-shared.sql 
+start s-04-automatic-shared.sql
+Prompt invocando script s-05-manual-shared.sql 
+start s-05-manual-shared.sql
+Prompt invocando script s-06-automatic-memory.sql 
+start s-06-automatic-memory.sql 
+set serveroutput on
+set linesize window
+exec spv_print_header
+host sha256sum &&p_script_validador
+exec spv_check_tables_usr_local('&&p_username')
+exec spv_print_ok('Validación concluida');
+exit
