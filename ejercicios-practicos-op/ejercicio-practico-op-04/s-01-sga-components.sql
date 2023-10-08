@@ -189,5 +189,3 @@ select initial_size_mb,target_size_mb,final_size_mb,increment_mb,
   status,start_time,end_time from ariadna04op.t07_sga_resize_ops;
 
 commit;
-
-exit;
