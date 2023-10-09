@@ -41,4 +41,3 @@ Prompt shutdown completo, iniciando
 startup
 
 Prompt Listo!
-exit
