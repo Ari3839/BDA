@@ -21,6 +21,3 @@ create table ariadna06.t02_other_parameters as
 );
 
 select * from ariadna06.t02_other_parameters;
-
-exit;
-
