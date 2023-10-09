@@ -35,4 +35,3 @@ create table ariadna06.t01_spparameters as
   where value is not null;
 
 select * from ariadna06.t01_spparameters;
-exit;
