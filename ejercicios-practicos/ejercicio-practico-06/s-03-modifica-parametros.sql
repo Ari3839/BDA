@@ -73,5 +73,3 @@ select * from ariadna06.t05_update_param_spfile;
 
 Prompt Mostrando contenido del archivo e-03-spparameter-pfile.txt
 !cat /unam-bda/ejercicios-practicos/ejercicio-practico-06/e-03-spparameter-pfile.txt | grep "*."
-
-exit
