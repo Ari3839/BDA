@@ -11,7 +11,7 @@ whenever sqlerror exit rollback
 Prompt creando usuario
 declare
   v_count number;
-  v_username varchar2(20) := 'ARIADNA02OP';
+  v_username varchar2(20) := 'ARIADNA0201';
 begin
   select count(*) into v_count from all_users where username=v_username;
   if v_count>0 then
@@ -20,10 +20,10 @@ begin
 end;
 /
 
-create user ariadna02op identified by ariadna quota unlimited on users;
+create user ariadna0201 identified by ariadna quota unlimited on users;
 
 Prompt creando tabla
-create table ariadna02op.database_info(
+create table ariadna0201.database_info(
   instance_name varchar2(16),
   db_domain varchar2(20),
   db_charset varchar2(15),
@@ -40,7 +40,7 @@ create table ariadna02op.database_info(
 );
 
 Prompt insertando datos
-insert into ariadna02op.database_info(instance_name,db_domain,db_charset,sys_timestamp,
+insert into ariadna0201.database_info(instance_name,db_domain,db_charset,sys_timestamp,
 timezone_offset,db_block_size_bytes,os_block_size_bytes,redo_block_size_bytes,
 total_components,total_components_mb,max_component_name,max_component_desc,max_component_mb)
 values (
@@ -78,13 +78,15 @@ Prompt mostrando datos parte 1
 set linesize window
 
 select instance_name,db_domain,db_charset,sys_timestamp,timezone_offset
-from ariadna02op.database_info;
+from ariadna0201.database_info;
 
 Prompt parte 2
 select db_block_size_bytes,os_block_size_bytes,redo_block_size_bytes, 
 total_components,total_components_mb
-from ariadna02op.database_info;
+from ariadna0201.database_info;
 
 Prompt parte 3
 select max_component_name,max_component_desc,max_component_mb
-from ariadna02op.database_info;
+from ariadna0201.database_info;
+
+
