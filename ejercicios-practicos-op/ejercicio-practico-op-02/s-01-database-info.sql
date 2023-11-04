@@ -88,5 +88,3 @@ from ariadna02op.database_info;
 Prompt parte 3
 select max_component_name,max_component_desc,max_component_mb
 from ariadna02op.database_info;
-
-exit;
